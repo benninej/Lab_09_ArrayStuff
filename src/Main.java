@@ -79,8 +79,11 @@ public class Main
     }
 
 
-
-
+    /**
+     * A method that calculates the average of an array of integers.
+     * @param values the array of integers
+     * @return the average as a double
+     */
     public static double getAverage(int values[])
     {
         int sum = 0;
